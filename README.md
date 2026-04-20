@@ -21,6 +21,7 @@ Sauce Demo is a web e-commerce application built for testing purposes. This proj
 | Login | Valid credentials, invalid credentials, empty fields |
 | Cart | Add product, remove product, cart badge update, add multiple products |
 | Checkout | Complete checkout, empty first name, empty last name, empty postal code, order summary |
+| Logout | Logout successfully, redirect to login after logout |
 
 ## Project Structure
 
@@ -29,6 +30,7 @@ web-testing-saucedemo/
 │   └── login.spec.ts
 │   └── cart.spec.ts
 │   └── checkout.spec.ts
+│   └── logout.spec.ts
 ├── .github/
 │   └── workflows/
 │       └── playwright.yml
