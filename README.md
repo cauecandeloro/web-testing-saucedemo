@@ -1,4 +1,4 @@
-# Web Testing - Sauce Demo
+# playwright-saucedemo
 
 E2E test suite for the [Sauce Demo](https://www.saucedemo.com) web application using Playwright.
 
