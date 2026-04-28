@@ -26,18 +26,18 @@ Sauce Demo is a web e-commerce application built for testing purposes. This proj
 
 ## Project Structure
 
-web-testing-saucedemo/
-├── tests/
-│   ├── login.spec.ts
-│   ├── inventory.spec.ts
-│   ├── cart.spec.ts
-│   ├── checkout.spec.ts
-│   └── logout.spec.ts
-├── .github/
-│   └── workflows/
-│       └── playwright.yml
-├── playwright.config.ts
-└── package.json
+    playwright-saucedemo/
+    ├── tests/
+    │   ├── login.spec.ts
+    │   ├── inventory.spec.ts
+    │   ├── cart.spec.ts
+    │   ├── checkout.spec.ts
+    │   └── logout.spec.ts
+    ├── .github/
+    │   └── workflows/
+    │       └── playwright.yml
+    ├── playwright.config.ts
+    └── package.json
 
 ## How to Run Locally
 
